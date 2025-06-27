@@ -2,7 +2,7 @@
   {
     "timestamp": "2025-06-27T22:12:38.450898",
     "question": "Manual SQL Query",
-    "sql_query": "SELECT * FROM mba_tokens LIMIT 10;",
+    "sql_query": "SELECT * FROM sample_data LIMIT 10;",
     "result_count": 10
   }
 ]
