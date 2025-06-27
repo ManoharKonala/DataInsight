@@ -1,0 +1,17 @@
+Date,Product,Category,Sales,Quantity,Region
+2024-01-15,Laptop,Electronics,1200,2,North
+2024-01-16,Phone,Electronics,800,1,South
+2024-01-17,Desk,Furniture,450,3,East
+2024-01-18,Chair,Furniture,200,5,West
+2024-01-19,Tablet,Electronics,600,2,North
+2024-01-20,Bookshelf,Furniture,350,2,South
+2024-01-21,Monitor,Electronics,400,3,East
+2024-01-22,Sofa,Furniture,1100,1,West
+2024-01-23,Keyboard,Electronics,80,4,North
+2024-01-24,Table,Furniture,300,2,South
+2024-01-25,Mouse,Electronics,25,6,East
+2024-01-26,Lamp,Furniture,75,3,West
+2024-01-27,Printer,Electronics,350,1,North
+2024-01-28,Cabinet,Furniture,600,2,South
+2024-01-29,Headphones,Electronics,150,4,East
+2024-01-30,Mirror,Furniture,120,2,West
